@@ -1,8 +1,8 @@
 # DOS-debugbar
 
-DOS-debugbar is application written in assembler which helps programmers to know details about registers and stack in the moment of their application is running.
+DOS-debugbar is an application written in assembler which helps programmers to know details about registers and stack in the moment of their application is running.
 
-DOS-debugbar runs in background (TSR mode).
+DOS-debugbar runs in the background (TSR mode).
 
 Commands:
 To run the programm:
