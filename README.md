@@ -4,13 +4,16 @@ DOS-debugbar is an application written in assembler which helps programmers to k
 
 DOS-debugbar runs in the background (TSR mode).
 
+To refresh your registers and stack status press F5
+
 Commands:
+
 To run the programm:
 ```sh
 $  debugb -start
 ```
 
-To close the programm:
+To close the program:
 ```sh
 $  debugb -stop
 ```
