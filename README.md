@@ -5,6 +5,7 @@ DOS-debugbar is an application written in assembler which helps programmers to k
 DOS-debugbar runs in the background (TSR mode).
 
 To refresh your registers and stack status press F5
+For moving debugbar across the console, use F1, F2, F3 and F4
 
 Commands:
 
