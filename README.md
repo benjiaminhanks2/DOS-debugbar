@@ -28,3 +28,4 @@ To write a byte in the memory:
 ```sh
 $  debugb -poke {segment} {offset} {value}
 ```
+![DebugBar](debugbar_shot.png)
